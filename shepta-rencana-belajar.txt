@@ -3,7 +3,10 @@ RENCANA BELAJAR SHEPTA
 - JavaScript
     *ES6
     *Framework Javascript
+    *React JS
 - PHP Framework
+   *laravel
 - Struktur data dasar
 - Python
 - C++
+- Java
