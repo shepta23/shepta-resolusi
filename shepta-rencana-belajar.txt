@@ -3,6 +3,7 @@ RENCANA BELAJAR SHEPTA
 - JavaScript
     *ES6
     *Framework Javascript
+    *laravel
     *React JS
 - PHP Framework
    *laravel
