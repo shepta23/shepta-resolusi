@@ -1,0 +1,8 @@
+RENCANA BELAJAR SHEPTA
+
+- JavaScript
+    *ES6
+    *Framework Javascript
+- PHP Framework
+- Python
+- C++
