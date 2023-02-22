@@ -1,0 +1,6 @@
+RENCANA BELAJAR SHEPTA
+
+- JavaScript
+- PHP Framework
+- Python
+- C++
