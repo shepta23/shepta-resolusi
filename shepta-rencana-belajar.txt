@@ -11,3 +11,4 @@ RENCANA BELAJAR SHEPTA
 - Python
 - C++
 - Java
+- Belajar mengenai logika dan algoritma
